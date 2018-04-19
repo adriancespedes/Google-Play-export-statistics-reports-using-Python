@@ -8,4 +8,4 @@ Python 3.6
 
 ### Configuration
 
-You need to modify privateAccountKeys.json with your account information and cloud_storage_bucket variable.
+You need to modify privateAccountKeys.json with your account information and inside GooglePlayExport.py the "cloud_storage_bucket" and "report_to_download" variables.
